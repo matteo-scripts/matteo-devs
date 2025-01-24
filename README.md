@@ -1,36 +1,34 @@
-# 👋 Welcome to AmplexHost's GitHub!
+# 👋 Welcome to Matteo's GitHub!
 
-Welcome to the official repository for **AmplexHost**! This is where we manage our code, projects, and developments related to FiveM, Minecraft hosting, and much more.
+Hi there! I'm Matteo, a 16-year-old IT student passionate about technology, game server hosting, and development. This GitHub profile is the home for all my projects, where I share tools, scripts, and ideas for the gaming and hosting communities.
 
-## About Me
+---
 
-- **👨‍💻 Name**: AmplexHost
-- **🌱 I'm currently learning**: Cloud hosting, server management, DDoS protection, and integrating various APIs for FiveM and Minecraft servers.
-- **💡 What I do**: I work on developing, hosting, and managing servers for FiveM and Minecraft communities. I’m passionate about creating efficient and scalable hosting solutions.
-- **🔧 My current projects**:
-  - Hosting solutions for **FiveM** and **Minecraft** servers.
-  - Integrating **Stripe** payment systems and building **Discord bots**.
-  - Working on the **SourceTrace** project to help the FiveM community with server management and script verification.
-  
-## 🤝 Collaboration
+## 🌟 My Projects
 
-I am always open to collaborating with developers, server owners, and enthusiasts who are passionate about server management, game modding, and cloud technologies.
+### [AmplexHost](https://amplexhost.eu)  
+Your go-to solution for **FiveM** and **Minecraft** server hosting! At AmplexHost, we focus on providing secure, reliable, and scalable hosting services tailored for game servers. Check out our website for more information.
 
-- **💬 How to reach me**: You can contact me via Discord or through the issues section of my repositories.
-- **🔍 I'm looking to collaborate on**: 
-  - Improving server hosting performance.
-  - Building useful tools for FiveM and Minecraft communities.
-  - Exploring new ways to improve server security and prevent leaks.
+### [SourceTrace](https://sourcetrace.eu)  
+A platform for the FiveM community that verifies server integrity, tracks leaked scripts, and ensures the highest standards of server management. SourceTrace is all about helping server owners run fair and transparent communities.
 
-## 🤓 Fun Facts
+### [Matteo Scripts](https://matteo-portfolio.eu)  
+My personal collection of scripts and tools designed for FiveM servers. From custom UIs to advanced server-side features, Matteo Scripts is where creativity meets functionality.
 
-- **⚡ Fun fact**: I’m currently working on a custom **FiveM loading screen** to display real-time progress based on server load times. I also have a **motorcycle (ČZ 125)** that I sometimes work on between projects.
-  
-## 📈 Latest Updates
+---
 
-Stay tuned for updates on my ongoing projects and new repositories! Feel free to explore the repositories and contribute to anything that interests you.
+## 🚀 About Me  
 
-- **Website**: [dtb.matahost.eu](http://dtb.matahost.eu)
-- **Project Website**: [sourcetrace.cz](http://sourcetrace.cz)
+- 🎓 **Age**: 16 years old, currently studying IT at high school.  
+- 🔧 **Hobbies**: When I’m not coding, I enjoy riding and repairing motorcycles.  
+- 💡 **Passions**: Game server development, hosting solutions, and making the FiveM community better for everyone.
 
-Thank you for checking out my GitHub profile! 👾
+---
+
+## 📫 Get in Touch  
+
+- **Website**: [matteo-portfolio.eu](https://matteo-portfolio.eu)  
+- **AmplexHost Hosting**: [amplexhost.eu](https://amplexhost.eu)  
+- **SourceTrace**: [sourcetrace.eu](https://sourcetrace.eu)  
+
+Thanks for stopping by! Feel free to explore my repositories or get in touch if you're interested in collaborating. 🚀  
